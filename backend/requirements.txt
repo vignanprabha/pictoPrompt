@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+mysql-connector-python
+SQLAlchemy==2.0.29
+alembic
+sentence-transformers
+numpy
+python-multipart
+aiofiles
