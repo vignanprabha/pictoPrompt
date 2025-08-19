@@ -1,0 +1,43 @@
+Prompts
+
+med1-A man reading a newspaper on a park bench, pigeons nearby, autumn leaves.
+med2-A kitchen with white cabinets, fresh bread on counter, yellow flowers in window
+med3-A girl with braids feeding ducks at a pond, wooden bridge behind
+med4-A red mailbox beside a gravel path, white house, roses in garden
+med5-An old man painting at an easel outdoors, easel facing mountains, paint tubes scattered
+med6-A teacher writing on blackboard, students raising hands, books stacked on desk, clock showing noon
+med7-A fisherman casting line from wooden dock, tackle box open, seagulls circling overhead
+med8-A gardener watering tomato plants, wheelbarrow with tools, bees buzzing around lavender bushes
+med9-A mechanic under car hood, tools on ground, oil stains, radio playing nearby
+med10-A picnic blanket with sandwiches, thermos, ants marching, basket tipped over, park trees
+med11-A scientist looking through microscope, test tubes bubbling, lab coat stained, notes scattered
+med12-A lifeguard in red chair, whistle around neck, umbrella providing shade, beach ball on sand
+med13-A janitor mopping hallway, bucket with wheels, wet floor sign, keys jingling
+med14-A cashier scanning items, receipt printing, shopping bags ready, customer counting coins
+med15-A pilot checking instruments, headset on, clouds visible through window, coffee cup steaming
+med16-A nurse taking blood pressure, stethoscope draped, chart on clipboard, patient smiling
+med17-A taxi driver checking mirror, meter running, air freshener hanging, radio crackling
+med18-A dentist examining teeth, light overhead, instruments on tray, patient wearing bib
+med19-A painter on scaffold, brush dripping, paint cans below, ladder secured, birds perching
+med20-A waiter serving soup, steam rising, bread basket on table, wine glasses filled
+
+hard1-A chef in white hat chopping vegetables, copper pots hanging, steam rising, herb garden visible through window
+hard2-Two boys flying kites on beach, seagulls overhead, sandcastle nearby, lighthouse in distance, clouds gathering
+hard3-A librarian organizing books on ladder, cat sleeping below, sunlight through stained glass, teacup on desk
+hard4-A farmer feeding chickens in yard, red barn background, hay bales, weathervane spinning, dog watching
+hard5-A street musician with guitar, hat for coins, pigeons pecking crumbs, café umbrellas, people walking
+hard6-A violinist performing in park, music sheets fluttering, coins in case, joggers passing, fountain splashing, pigeons pecking
+hard7-A photographer crouching in meadow, butterfly on lens cap, camera bag open, wildflowers swaying, clouds reflected
+hard8-A postman delivering mail, dog barking behind gate, letters scattered, bicycle leaning, garden gnome watching, doorbell glowing
+hard9-A florist arranging roses, scissors on counter, petals fallen, customer browsing, watering can dripping, price tags visible
+hard10-A construction worker hammering roof, ladder against wall, tools in belt, hard hat bright, blueprints weighted down
+hard11-A zookeeper feeding penguins, fish bucket half empty, visitors watching behind glass, ice melting, name tag visible
+hard12-A watchmaker repairing timepiece by seeing through magnifying glass, tiny gears scattered, oil droplets gleaming, clock ticking
+hard13-A firefighter climbing ladder, hose unrolled, smoke billowing, helmet reflecting flames, radio crackling, crowds gathering below
+hard14-A jeweler examining diamond, loupe in eye, velvet cloth spread with diamonds, scales gleaming, certificates stacked, safe door ajar
+hard15-A archaeologist brushing artifact, dirt flying, measuring tape extended, notebook getting dusty, sun hat tilted, tools organized
+hard16-A meteorologist pointing at map, storm clouds swirling, radar beeping, coffee mug steaming, papers rustling, forecast updating
+hard17-A locksmith cutting keys, metal shavings falling, code book open, customer keys dangling, machine humming, receipt printing
+hard18-A optometrist adjusting frames, eye chart reflecting, lens case open, prescription pad ready, patient squinting, light dimming
+hard19-A beekeeper inspecting hive, smoke gun ready, protective suit zipped, honey dripping, frames lifted, bees buzzing frantically
+hard20-A cobbler hammering sole, leather scraps curled, awl gleaming, thread spools organized, customer shoe waiting, lamp casting shadows
